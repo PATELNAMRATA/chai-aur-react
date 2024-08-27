@@ -36,6 +36,7 @@ function App() {
     <button onClick={addValue}>Add value : {counter}</button>
     <br />
     <button id="IdrmvBtn" onClick={removeValue}>Remove value : {counter}</button>
+  <p>footer:{counter}</p>    
     
 
     </>
